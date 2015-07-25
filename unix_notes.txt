@@ -1,0 +1,74 @@
+man less this is a way to see the manual!!!!!!!!!!
+history | less
+history
+history 10
+history 5
+cd
+clear
+~
+subl .
+cd documents/ElyssaCichy/
+subl close
+subl /ElyssaCichy .
+ls ..
+ls
+cd Applications/
+ls -t /
+ls /Applications/
+ls -1 / This is co very interesting
+NOW!!!
+I!!!
+HAVE!!!
+CHANGED!!!!
+A!!!!!
+LOT!!!!!
+OF CRAP!!!!!!
+p
+cd ../..
+cd Documents/ElyssaCichy/
+cd ..
+pwd
+ls -l
+cd my_first_repository/
+cd /Users/elyssacichy/
+ls -r1l
+ls -1l
+ls -1a
+ls -1
+cd /
+ls -n
+ls -a
+ls -1r
+man ls
+man prompt
+ls -lrt
+ls -rt
+ls -r
+ls -lt
+ls -t
+cd
+Xcode version
+xcode --version
+subl /ElyssaCichy/Elyssa_index.html
+subl /ElyssaCichy
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'elyssacichy@gmail.com'
+git config --global user.name 'Elyssa Cichy'
+git --version
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+deleted lines 62- 70!!!!!!!!!!!!!!!!!!!
+sSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+rm my_cool_project
+mkdir my_cool_project
+git init my_first_repository
+top here's something else I care about!!!!!
+cd documents/
+ls /documents
+What a fantastic thing to learn...
