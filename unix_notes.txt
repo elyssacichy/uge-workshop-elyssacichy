@@ -1,3 +1,8 @@
+about hidden files: they are hidden. start with a . git is a hidden file.
+
+
+
+
 man less this is a way to see the manual!!!!!!!!!!
 history | less
 history
