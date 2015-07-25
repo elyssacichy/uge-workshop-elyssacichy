@@ -3,3 +3,5 @@ I just made this file by typing touch git_notes.txt into the terminal, and then 
 This is pretty awesome.
 
 They just told us to open this file, but I already have. So far, this is pretty easy stuff. That makes me happy. Feel like I'm understanding all of this!! YAY
+
+Okay, Iam once again updating this page for the purpose of learning to update my repository, but this time for a remote
